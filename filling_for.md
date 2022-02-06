@@ -1,0 +1,1 @@
+Ahmad Zaenal - Ahmad Zaenal is a data scientist with experience in credit scoring, algorithm trading and insurance. He interested in machine learning,data warehouse/lake technology,web application. Currently he work in a startup that running in food industry. 
